@@ -9,8 +9,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
-import com.in28minutes.spring.basics.componentscan.ComponentDAO;
 import com.in28minutes.spring.basics.springin5steps.basic.BinarySearchImpl;
+import com.in28minutes.spring.basics.springin5steps.componentscan.ComponentDAO;
 import com.in28minutes.spring.basics.springin5steps.scope.PersonDAO;
 
 @Configuration
